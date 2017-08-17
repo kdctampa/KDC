@@ -1251,7 +1251,7 @@
 		font-weight: 700;
 		text-transform: uppercase;
 		text-decoration: none;
-		background: #b1ddab;
+		background: #000000;
 		color: #fff;
 		border: 0;
 		line-height: 1em;
@@ -1270,7 +1270,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #c1edbb;
+			background: #CCD5D0;
 		}
 
 		input[type="button"]:active,
@@ -1278,7 +1278,7 @@
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background: #a1cd9b;
+			background: #CCD5D0;
 		}
 
 		input[type="button"].alt,
@@ -1294,7 +1294,7 @@
 			input[type="reset"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background: #ccd5d0;
+				background: #AA8800;
 			}
 
 			input[type="button"].alt:active,
@@ -1302,7 +1302,7 @@
 			input[type="reset"].alt:active,
 			button.alt:active,
 			.button.alt:active {
-				background: #b1bab5;
+				background: #AA8800;
 			}
 
 /* List */
@@ -1639,7 +1639,7 @@
 
 	#banner-wrapper {
 		position: relative;
-		background-image: url("images/overlay.png"), url("images/overlay.png"), url("../../images/HouseMain.jpg");
+		background-image: url("images/overlay.png"), url("images/overlay.png"), url("../../images/housemain.jpeg");
 		background-position: top left, top left, center center;
 		background-repeat: repeat, repeat, no-repeat;
 		background-size: auto, auto, cover;
@@ -1648,7 +1648,7 @@
 
 	#main-wrapper {
 		background: #fff;
-		border-top: solid 5px #b1ddab;
+		border-top: solid 5px #000000;
 		border-bottom: solid 5px #c1cac5;
 	}
 
@@ -2000,7 +2000,7 @@
 					}
 
 					#nav li.current a {
-						background: #b1ddab;
+						background: #000000;
 						color: #fff;
 					}
 
@@ -2527,7 +2527,7 @@
 						position: absolute;
 						left: 0;
 						top: 0;
-						background: #b1ddab;
+						background: #000000;
 						width: 44px;
 						height: 44px;
 						content: '\f0c9';
